@@ -1,2 +1,2 @@
-# The-Slime-Mod
+# TheSlimeMod
 The mod of the slimes!
